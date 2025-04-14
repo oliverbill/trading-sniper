@@ -1,0 +1,8 @@
+matplotlib~=3.10.1
+mplfinance~=0.12.10b0
+pandas~=2.2.3
+pytz~=2025.2
+requests~=2.32.3
+yfinance~=0.2.55
+fpdf~=1.7.2
+pygame~=2.6.1
